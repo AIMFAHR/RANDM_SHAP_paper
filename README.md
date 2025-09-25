@@ -6,4 +6,4 @@ Jupyter Notebooks and supplementary data for the paper "Elucidating the Grey Atm
 Python Package Requirements are found in requirements.txt. As of September 22, 2025, the MLTDM package (https://github.com/kylermurphy/mltdm/) is not installable via pip and must be installed locally before use.
 
 ### Required Data
-Saved SHAP value data can be found in `./SHAP_values/` . Saved feature data (`FI_GEO_RF_data.h5`) can be downloaded from Zenodo at <> .
+Saved SHAP value data can be found in `./SHAP_values/` . Saved RANDM feature data (`FI_GEO_RF_data.h5`) can be downloaded from Zenodo at https://zenodo.org/uploads/17201537 .
